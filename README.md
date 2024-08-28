@@ -1,4 +1,4 @@
-# [Xem báo cáo chi tiết tại đây](./Report%20Final.pdf)
+# [Xem báo cáo chi tiết tại đây](https://drive.google.com/file/d/156l4K40VSyby4NtwBQ8ZYg3NBryTqnBN/view?usp=sharing)
 
 Nhiều nhà bán lẻ trực tuyến nhỏ và những người mới tham gia vào lĩnh 
 vực bán lẻ trực tuyến muốn thực hành khai thác dữ liệu và tiếp thị 
@@ -6,7 +6,7 @@ lấy người tiêu dùng làm trung tâm trong doanh nghiệp của họ.
 Mục đích chính của phân tích này là giúp doanh nghiệp hiểu rõ hơn 
 về khách hàng của mình và từ đó tiến hành tiếp thị lấy khách hàng 
 làm trung tâm có hiệu quả hơn. Trên cơ sở mô hình Recency, Frequency, 
-Monetary(RFM) khách hàng của doanh nghiệp đã được phân khúc thành 
+Monetary (RFM) khách hàng của doanh nghiệp đã được phân khúc thành 
 nhiều nhóm với các đặc điểm chính khác nhau của người tiêu dùng. 
 Theo đó, đưa ra khuyến nghị cho doanh nghiệp ra quyết định thông 
 minh hơn về tiếp thị và quản lý khách hàng từ đó nâng cao hiệu quả 
