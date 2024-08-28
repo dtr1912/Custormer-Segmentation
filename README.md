@@ -1,1 +1,1 @@
-# [Xem báo cáo chi tiết tại](./Report Final.pdf)
+[Xem báo cáo PDF](./Report Final.pdf)
